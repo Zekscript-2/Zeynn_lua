@@ -1,0 +1,3 @@
+ID="e1b25485-7ffc-497d-8c1f-30d7dd50af67";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZuriOnTop/Lua-Randomizer/refs/heads/main/Lua"))()
